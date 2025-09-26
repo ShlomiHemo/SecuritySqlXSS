@@ -30,16 +30,4 @@ Configuration examples for DB, server, and browser security headers.
 
 Guided examples with step‑by‑step attack and remediation walkthroughs.
 
-### 🛠 Technology stack (example)
 
-Update these lines if your implementation differs.
-
-Frontend: HTML, vanilla JavaScript (or React for extended demo)
-
-Backend: Node.js + Express (example), but code snippets include PHP and Java alternatives
-
-Database: MySQL / SQLite (SQL file included)
-
-Dev tools: npm, dotenv
-
-Optional: Dockerfile / docker‑compose for quick local environment
