@@ -1,7 +1,8 @@
-SecuritySqlXSS — a practical, hands‑on web security demo that demonstrates common web vulnerabilities (SQL Injection and Cross‑Site Scripting / XSS) and the correct defenses (parameterized queries, input validation & output escaping, Content Security Policy, etc.).
+# SecuritySqlXSS
+a practical, hands‑on web security demo that demonstrates common web vulnerabilities (SQL Injection and Cross‑Site Scripting / XSS) and the correct defenses (parameterized queries, input validation & output escaping, Content Security Policy, etc.).
 This repository is intended both as a learning tool and as a technical portfolio piece you can show in interviews.
 
-⚡ Project summary
+## ⚡ Project summary
 
 SecuritySqlXSS contains a small web application that intentionally includes vulnerable endpoints so you can see how SQL Injection and XSS attacks work, plus secure implementations that mitigate those vulnerabilities. The project includes:
 
@@ -15,7 +16,7 @@ Documentation and code examples showing how to fix vulnerabilities (prepared sta
 
 Use this project to learn, to demonstrate security awareness in interviews, or to teach others safe coding practices.
 
-🧩 Features / What this repo demonstrates
+### 🧩 Features 
 
 SQL Injection (vulnerable endpoint) — shows how concatenating user input into queries can be exploited.
 
@@ -29,7 +30,7 @@ Configuration examples for DB, server, and browser security headers.
 
 Guided examples with step‑by‑step attack and remediation walkthroughs.
 
-🛠 Technology stack (example)
+### 🛠 Technology stack (example)
 
 Update these lines if your implementation differs.
 
